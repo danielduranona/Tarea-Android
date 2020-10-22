@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FormularioContacto</string>
+    <string name="campo_nombre">Ingresar Nombre</string>
+    <string name="campo_telefono">Ingresar Telefono</string>
+    <string name="campo_email">Ingresar E-mail</string>
+    <string name="campo_descripcion">Ingresar Descripcion</string>
+    <string name="boton_siguiente">Siguiente</string>
+</resources>
